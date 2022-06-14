@@ -31,8 +31,6 @@ LOGIN_REDIRECT_URL ='/Zuri-adminlogin/'
 
 
 
-
-
 # Application definition
 
 INSTALLED_APPS = [
